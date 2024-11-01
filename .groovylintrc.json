@@ -1,0 +1,17 @@
+{
+    "extends": "recommended",
+    "rules": {
+        "ClassJavadoc": {
+            "enabled": false
+        },
+        "CompileStatic": {
+            "enabled": false
+        },
+        "Indentation": {
+            "spaces": 3
+        },
+        "PackageName": {
+            "enabled": false
+        }
+    }
+}
